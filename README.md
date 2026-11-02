@@ -11,6 +11,10 @@ Boş zamanlarımda yazılım geliştiriyorum. En yenisi **[Overload](https://ove
 - 🛡️ **[safe-vibe-coding-kit](https://github.com/berkantshn/safe-vibe-coding-kit)** — yazılımcı olmadan Claude Code ile proje geliştirenler için hazır güvenlik kuralları
 - 🏠 **[home-assistant-watchdogs](https://github.com/berkantshn/home-assistant-watchdogs)** — Home Assistant sessizce bozulduğunda haber veren bekçi otomasyonları
 - ✨ **[phaser-neon-fx](https://github.com/berkantshn/phaser-neon-fx)** — Phaser 4 için neon efekt kütüphanesi · [canlı demo](https://berkantshn.github.io/phaser-neon-fx/)
+- 📺 **[neon-stream-overlay](https://github.com/berkantshn/neon-stream-overlay)** — OBS için sunucusuz neon sohbet overlay'i · [canlı demo](https://berkantshn.github.io/neon-stream-overlay/)
+- 📘 **[claude-code-baslangic-rehberi](https://github.com/berkantshn/claude-code-baslangic-rehberi)** — yazılımcı olmayanlar için Türkçe Claude Code rehberi
+- 🗣️ **[home-assistant-turkce-komutlar](https://github.com/berkantshn/home-assistant-turkce-komutlar)** — Home Assistant Assist için günlük Türkçe cümle paketi
+- ⚡ **[elektrik-hesap](https://github.com/berkantshn/elektrik-hesap)** — temel elektrik hesapları kütüphanesi (eğitim ve ön tasarım amaçlı)
 - ☁️ **[falcreb-cloud-backup](https://github.com/berkantshn/falcreb-cloud-backup)** — Windows için Google Drive ve OneDrive yedekleme uygulaması
 - 🔀 **[ha-discord-gateway](https://github.com/berkantshn/ha-discord-gateway)** — Raspberry Pi ve Home Assistant için seçili alan adlarına yönelik DNS ve SNI geçidi
 
