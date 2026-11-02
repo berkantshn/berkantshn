@@ -6,9 +6,17 @@ Boş zamanlarımda yazılım geliştiriyorum. En yenisi **[Overload](https://ove
 
 *I'm Berkant Şahin, an electrical engineer based in Antalya, Türkiye. Online I go by **FALCREB** and stream casually on Twitch and Kick. In my spare time I build software, most recently **Overload**, a neon circuit-board survival game for the browser and Android.*
 
-## Projeler
+## Açık kaynak
 
-Kodların çoğu şimdilik gizli; tanıtımları, ekran görüntüleri ve canlı bağlantıları kişisel sitemde.
+- 🛡️ **[safe-vibe-coding-kit](https://github.com/berkantshn/safe-vibe-coding-kit)** — yazılımcı olmadan Claude Code ile proje geliştirenler için hazır güvenlik kuralları
+- 🏠 **[home-assistant-watchdogs](https://github.com/berkantshn/home-assistant-watchdogs)** — Home Assistant sessizce bozulduğunda haber veren bekçi otomasyonları
+- ✨ **[phaser-neon-fx](https://github.com/berkantshn/phaser-neon-fx)** — Phaser 4 için neon efekt kütüphanesi · [canlı demo](https://berkantshn.github.io/phaser-neon-fx/)
+- ☁️ **[falcreb-cloud-backup](https://github.com/berkantshn/falcreb-cloud-backup)** — Windows için Google Drive ve OneDrive yedekleme uygulaması
+- 🔀 **[ha-discord-gateway](https://github.com/berkantshn/ha-discord-gateway)** — Raspberry Pi ve Home Assistant için seçili alan adlarına yönelik DNS ve SNI geçidi
+
+## Diğer projeler
+
+Bu projelerin kodu gizli; tanıtımları, ekran görüntüleri ve canlı bağlantıları kişisel sitemde.
 
 - 🎮 **[Overload](https://berkantsahin.com.tr/projelerim/overload)** — neon devre kartında hayatta kalma oyunu · [oyna](https://overload.falcreb.com) · [nasıl yaptım?](https://berkantsahin.com.tr/blog/overload-nasil-yaptim)
 - 🤖 **[FALCREBOT](https://berkantsahin.com.tr/projelerim/falcrebot)** — Twitch, Kick, YouTube ve Discord için tek merkezli yayın ve moderasyon botu
