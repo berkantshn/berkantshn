@@ -1,10 +1,20 @@
+# Node.js bağımlılık klasörü
 node_modules/
+# Python bytecode önbellek dosyaları
 __pycache__/
+# Python sanal ortam klasörü
 .venv/
+# Derleme/dağıtım çıktıları
 dist/
+# Derleme çıktıları
 build/
+# Çalışma sırasında üretilen log dosyaları
 *.log
+# macOS Finder tarafından oluşturulan sistem dosyası
 .DS_Store
+# Ortam değişkenlerini içeren yerel dosya
 .env
+# Ortam değişkeni dosyalarının varyasyonları
 .env.*
+# Örnek ortam dosyası repoda takip edilmeli
 !.env.example
